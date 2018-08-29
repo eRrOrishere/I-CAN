@@ -1,8 +1,8 @@
 <?php
     $servername = "localhost";
-	$username = "id6837233_error";
-	$password = "error";
-	$database = "id6837233_skyhack";
+	$username = "username";
+	$password = "password";
+	$database = "database";
 
 	$conn = mysqli_connect($servername, $username, $password, $database);
 
