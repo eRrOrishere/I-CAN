@@ -34,4 +34,4 @@ Rahul Manusmare - Leader, Tushar Dahule, Vipin Mankar, Lokesh Agrawal, Yash Para
 
 Our Achievement
 
-Runner Up at SkyHack 2018
+1st Runner Up at SkyHack 2018
